@@ -12,6 +12,7 @@ Create a similar app to the one on the tutorial
 
 #### challenge 1
 Using the knowledge learnt above create a simple todo list application the persists the data to local storage
+
  - Concepts being tested
       - [ ] components structure
       - [ ] component state management
